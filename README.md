@@ -1,7 +1,5 @@
 # ethos-checker-serverless
-Checks ethOS distro API using AWS Lambda
-
-Simple script to check ethOS admin screen for GPU issues using AWS Lambda
+Simple script to check ethOS (ethosdistro.com) admin screen for GPU issues using AWS Lambda
 
 Instructions: 
 
